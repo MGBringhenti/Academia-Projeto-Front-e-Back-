@@ -1,0 +1,17 @@
+# Credenciais locais
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados
+node_modules/
+target/
+dist/
+*.log
+*.class
+
+# Configurações locais de editores
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
